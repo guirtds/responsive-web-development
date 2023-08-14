@@ -1,0 +1,98 @@
+body {
+    background-attachment: fixed;
+    background-image: url("../img/fundo.jpg");
+    margin: 16px;
+}
+
+#container {
+    width: 900px;
+    margin: 0 auto;
+    border: solid 4px #000066;
+    border-radius: 12px;
+}
+
+section {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #003399;
+    background-color: #ffffff70;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.banner {
+    text-align: center;
+    margin-bottom: -105px;
+}
+
+.content {
+    display: flex;
+    padding-top: 24px;
+    text-indent: 36px;
+}
+
+.content p {
+    padding: 12px;
+}
+
+.person {
+    display: flex;
+    padding: 24px;
+}
+
+.person img {
+    border-radius: 50%;
+    border: solid 4px #000066;
+}
+
+.person p  {
+    padding-left: 28px;
+    padding-top: 28px;
+}
+
+.person h2 {
+    padding-left: 28px;
+}
+
+.tree {
+    text-align: center;
+    padding: 24px;
+}
+
+.list a:hover {
+    color: #f44c2d;
+}
+
+.list a {
+    color: #003399;
+}
+
+.list li {
+    padding: 8px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #f44c2d;
+    padding: 16px;
+}
+
+h2 {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 24px;
+    color: #003399;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    color: #000066;
+    background-color: #000066;
+}
+
+
+
